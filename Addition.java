@@ -7,8 +7,8 @@ public class Addition {
         int num1 = scanner.nextInt();
         System.out.print("Enter the second number: ");
         int num2 = scanner.nextInt();
-        int sum = num1 + num2;
-        System.out.println("The sum is: " + sum);
+        int mul = num1 * num2;
+        System.out.println("The mul is: " * mul);
         scanner.close();
     }
 }
